@@ -1,16 +1,23 @@
-### Hi there 👋
+### Language
 
-<!--
-**Coder-Factory/Coder-Factory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Swift](https://img.shields.io/badge/-Swift-000?style=flat&logo=Swift)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technology
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=plastic&logo=Kubernetes)
+![React](https://img.shields.io/badge/-React-000?style=plastic&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?style=plastic&logo=Redis)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=plastic&logo=PyTorch)
+![Spring](https://img.shields.io/badge/-Spring-000?style=plastic&logo=Spring)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=plastic&logo=node.js)
+
+
+
+---
+
+Too many of us are not living our dreams because we are living our fears.
